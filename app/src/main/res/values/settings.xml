@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="softlayer_photo_name">devniel</string>
+    <!-- take care with the container url, it could replace your entire directory if you set it incorrectly -->
+    <string name="softlayer_container_url">https://dal05.objectstorage.softlayer.net/v1/XXX/YYY/photos/</string>
+    <string name="softlayer_auth_token">XXX</string>
+
+</resources>
